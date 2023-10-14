@@ -1,1 +1,2 @@
 My hotfix file
+Making changes to the hotfix file from GIT HUB
